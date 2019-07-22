@@ -48,14 +48,14 @@ paginate = 6
   weight = 2
   
   [[menu.main]]
-  name = "team"
-  URL = "/team"
-  weight = 3
-  
-  [[menu.main]]
   name = "Blog"
   URL = "/blog"
   weight = 4
+
+  [[menu.main]]
+  name = "team"
+  URL = "/team"
+  weight = 5
   
   [[menu.main]]
   name = "career"
@@ -69,24 +69,20 @@ paginate = 6
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "Product"
   URL = "/about"
+  weight = 2
   
   [[menu.footer]]
   name = "Contact"
   URL = "/contact"
-  
-  [[menu.footer]]
-  name = "Privacy"
-  URL = "/privacy"
+  weight = 4
   
   [[menu.footer]]
   name = "Blog"
   URL = "/blog"
-  
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "/faq"
+  weight = 3
+
 
 
 [params]

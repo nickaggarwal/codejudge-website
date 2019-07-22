@@ -29,27 +29,27 @@ featureOne:
   enable : true
   imageAlt : "images/feature/feature-new-01.jpg"
   image : "images/feature/feature-new-01.webp"
-  title : "Make your hiring pipeline efficient with Codejudge"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  comment : "InVision is a window into everything that's being designed at Twitter. It gets all of our best work in one place."
+  title : "Make developer hiring efficient with Codejudge"
+  content : "Recruiter’s can easily send a Coding Assignment based on their Industry, Technology and Delivery Area from a list of micro projects and get a report comprising of the performance on test cases (Functional Requirements) and Non Functional Metrics like Design Patterns used, Code Smells, Bugs and Code Quality. This provides them a real insight into his developer proficiency."
+  comment : "Using Codejudge we could pre filter a lot of candidates and found better candidates for the job role."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
-  clientName : "Sumit Jain , Birdeye"
+  clientName : "Sumit Jain, Birdeye"
 
 # feature two
 featureTwo:
   enable : true
   image : "images/feature/feature-new-02.webp"
   imageAlt : "images/feature/feature-new-02.jpg"
-  title : "Practive your skill with Codejudge"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  comment : "InVision is a window into everything that's being designed at Twitter. It gets all of our best work in one place."
+  title : "Practive development skill with Codejudge"
+  content : "Codejudge provides a platform for practicing real world problems. As you build these micro projects you learn aspects of software developemnt and get real time feedback. This skills helps you get ahead in you carrier. You can choose from Backend, Fronend or Mobile Projects."
+  comment : "Using Codejudge I could help acclerate my coding carrier by practicing real world scenarios."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
-  clientName : "Avikant Gupta , Adobe"
+  clientName : "Avikant Gupta, Adobe"
 
 # service
 service:
   enable : true
-  title : "A Plugin to make you hiring pipeline efficient"
+  title : "A Tool to make you hiring pipeline efficient"
   description : "Codejudge makes it easy to acceess skills for a developer. Zero Effort Workflow."
   image : "images/feature/iphone-ipad.webp"
   imageAlt : "images/feature/iphone-ipad.jpg"
@@ -77,12 +77,12 @@ promoVideo:
   bgImage : "images/background/promo-video-back.webp"
   bgImageAlt : "images/background/promo-video-back.jpg"
   title : "Watch Our Promo Video"
-  content : "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus"
+  content : ""
   videoURL : "http://www.youtube.com/watch?v=opj24KnzrWo"
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   testimonialSlider:
     - name: "Abraham Linkon , Themefisher"
       image: "images/testimonial/feature-testimonial-thumb.jpg"
@@ -103,17 +103,17 @@ testimonial:
 # download
 download:
   enable : true
-  title : "It's Time to change your mind"
-  description : "Download over 2 million humans .Get Small Apps free forever! <br>We say you won’t look back."
+  title : "It's Time to switch to future of Skill Assessment"
+  description : "With over 200+ scenarios. Get Codejudge! <br>We say you won’t look back."
   downloadButton :
-    - btnText : "Iphone"
-      icon : "tf-ion-social-apple"
+    - btnText : "Backend"
+      icon : "tf-ion-ios-cloud"
       URL : "#"
       
-    - btnText : "Android"
+    - btnText : "Fronend"
+      icon : "tf-ion-android-chat"
+      URL : "#"
+      
+    - btnText : "Mobile"
       icon : "tf-ion-social-android"
-      URL : "#"
-      
-    - btnText : "Windows"
-      icon : "tf-ion-social-windows"
       URL : "#"

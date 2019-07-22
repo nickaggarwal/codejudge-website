@@ -2,6 +2,26 @@
 
   {{ partial "page-title.html" . }}
 
+  {{ "<!-- Create Story -->" | safeHTML }}
+  <section class="section create-stories pt-0">
+    <div class="container">
+      <div class="row">
+        {{ range .Site.Data.about.createStory }}
+        <div class="col-lg-6">
+          <div class="block">
+            <img class="img-fluid" src="{{ .image | absURL }}" onerror="this.src='{{ .imageAlt | absURL }}'" alt="Story-Image">
+            <h3>{{ .title }}</h3>
+            <p>{{ .content }}</p>
+            <br>
+            <a href="{{ .URL }}" class="btn font-weight-bold btn-main-md">{{ .btnText }}</a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ "<!-- End of Create Story -->" | safeHTML }}
+
   {{ if .Site.Data.about.about.enable }}
   {{ "<!-- Our Story -->" | safeHTML }}
   <section class="section about p-0">
@@ -49,23 +69,7 @@
   {{ end }}
   {{ end }}
   
-  {{ "<!-- Create Story -->" | safeHTML }}
-  <section class="section create-stories pt-0">
-    <div class="container">
-      <div class="row">
-        {{ range .Site.Data.about.createStory }}
-        <div class="col-lg-6">
-          <div class="block">
-            <img class="img-fluid" src="{{ .image | absURL }}" onerror="this.src='{{ .imageAlt | absURL }}'" alt="Story-Image">
-            <h3>{{ .title }}</h3>
-            <p>{{ .content }}</p>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  {{ "<!-- End of Create Story -->" | safeHTML }}
+  
   
   {{ if .Site.Data.about.quoteSlider.enable }}
   {{ "<!-- Quotes Slider -->" | safeHTML }}
