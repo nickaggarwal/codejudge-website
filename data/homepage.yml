@@ -1,7 +1,7 @@
 # banner
 banner:
   title : "Hire Developers with RealWorld Microproject "
-  description : "Codejudge allows you to create Assignments that help skills of a developer with Real World Scenarios."
+  description : "Codejudge allows you to solve Microprojects that helps to evaluate skills of a developer with Real World Scenarios."
   bgImage : "images/home-banner.webp"
   bgImageAlt : "images/home-banner.png"
   image : "images/mobile.webp"

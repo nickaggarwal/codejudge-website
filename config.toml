@@ -44,7 +44,7 @@ paginate = 6
     
   [[menu.main]]
   name = "Product"
-  URL = "/about"
+  URL = "/product"
   weight = 2
   
   [[menu.main]]
@@ -57,10 +57,6 @@ paginate = 6
   URL = "/team"
   weight = 5
   
-  [[menu.main]]
-  name = "career"
-  URL = "/career"
-  weight = 6
   
   [[menu.main]]
   name = "About US"
