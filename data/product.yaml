@@ -1,8 +1,9 @@
 about:
   enable: true
   title : "Real world Micro projects"
-  content : "We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new ideas and better experiences in everything they do.
-            Because today’s hyper-connected world deserves a financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes you into new exciting spaces."
+  content : "We really believe that building is learning. So we created a platfrom that allows developers to build for real world problems and get feedback. 
+          We wanted to use first principles approach to solving Hiring problem. So we asked why can't we give a task that developer is suppoded to do as a part of everyday routine. 
+          From there we created a platfrom that could solve for creating boilerplate, creating build automation creating a pipeline for deployment and then test for performance and quality. "
   imageSlider:
     - image : "images/about/story-slider-01.webp"
       imageAlt : "images/about/story-slider-01.jpg"
@@ -16,8 +17,8 @@ about:
 # behind story
 behindStory:
   enable : true
-  title : "Why we created Small Apps"
-  content : "Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Proin eget tortor risus. Proin eget tortor risus. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat."
+  title : "Why we created Codejudge"
+  content : "Codejudge plans to bridge the GAP between what is asked in hiring interviews and what skills are required by developers in their everyday tasks. With Codejudge we wanted to platform were we could abstract out the infrastructure and deployment nuisance which inhibts Recruiters to test for everyday development skill. Furthermore same platform can be used by developers to solve read world challeges rather than algorithm and data structure challenges."
 
 # create story
 createStory:
@@ -39,15 +40,15 @@ createStory:
 quoteSlider:
   enable : true
   sliderItem : 
-    - quote : "Behind every great product, there is a great mind."
-      quoteBy : "-TechCrunch"
+    - quote : "Reason from First Principles, rather than Analogy."
+      quoteBy : "-EM"
       
     - quote : "Behind every great product, there is a great mind."
       quoteBy : "-TechCrunch"
 
 # clients slider
 clients: 
-  enable : true
+  enable : false
   title : "Featured In"
   clientSlider :
    - clientsLogo : "images/clients/business-finder.png"
@@ -63,43 +64,43 @@ investors :
   investor :
     - image : "images/team/marketing-team-01.webp"
       imageAlt : "images/team/marketing-team-01.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Rajan Anandan"
+      designation : "Investor/Managing Director, Sequioa"
       
     - image : "images/team/marketing-team-02.webp"
       imageAlt : "images/team/marketing-team-02.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Asha Mothwani"
+      designation : "Angel Investor (Google, Paypal, Pintrest)"
       
     - image : "images/team/marketing-team-03.webp"
       imageAlt : "images/team/marketing-team-03.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Nishant Rao"
+      designation : "Investor/Advisor - Various Indian VCs"
       
     - image : "images/team/marketing-team-01.webp"
       imageAlt : "images/team/marketing-team-01.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Sunil Karla"
+      designation : "Investor/ MD Via projects"
       
     - image : "images/team/marketing-team-02.webp"
       imageAlt : "images/team/marketing-team-02.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Madhu Kannan"
+      designation : "Investor/ Head - Uber India"
       
     - image : "images/team/marketing-team-03.webp"
       imageAlt : "images/team/marketing-team-03.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Samir Khurana"
+      designation : "Investor/ Director S.Chand Group"
       
     - image : "images/team/marketing-team-01.webp"
       imageAlt : "images/team/marketing-team-01.jpg"
-      name : "Spider Web"
+      name : "Vikram Malra"
       designation : "Investor"
       
     - image : "images/team/marketing-team-02.webp"
       imageAlt : "images/team/marketing-team-02.jpg"
-      name : "Spider Web"
-      designation : "Investor"
+      name : "Kunal Khattar"
+      designation : "Investor/ Founding Partner - AdvantEdge"
 
 # call to action
 cta :

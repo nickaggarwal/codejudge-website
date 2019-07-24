@@ -4,8 +4,8 @@ teamLeaders:
     # ceo
     - image : "images/team/featured-person-01.webp"
       imageAlt : "images/team/featured-person-01.jpg"
-      name : "Elon Musk"
-      designation : "Founder & CEO"
+      name : "Akhil Mittal"
+      designation : "Founder & CTO"
       content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam
             vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor
             lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec
@@ -27,7 +27,7 @@ teamLeaders:
     # ceo
     - image : "images/team/featured-person-02.webp"
       imageAlt : "images/team/featured-person-02.jpg"
-      name : "Sergey Brin"
+      name : "Nilesh Agarwal"
       designation : "Founder & CEO"
       content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam
             vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor
