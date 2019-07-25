@@ -6,11 +6,8 @@ teamLeaders:
       imageAlt : "images/team/featured-person-01.jpg"
       name : "Akhil Mittal"
       designation : "Founder & CTO"
-      content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam
-            vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor
-            lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec
-            velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Nulla
-            porttitor accumsan tincidunt."
+      content : "Akhil has led tech teams in both start ups and large scale enterprises. His proficiency in backend technologies (Java, PHP), 
+      frontend technologies (ExtJs, AngularJs), databases (SQL/NoSQL), search engines (Elasticsearch) and cache (Redis) will accelerate our journey ."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -29,11 +26,10 @@ teamLeaders:
       imageAlt : "images/team/featured-person-02.jpg"
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
-      content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam
-            vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor
-            lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec
-            velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Nulla
-            porttitor accumsan tincidunt."
+      content : "Nilesh is a seasoned Technology lead - he has extensively used Java, Python , Angular JS, Graph Databases, Elastic Map
+                Reduce, Docker,Static Code Analysis tools to create products for Location Tracking products. He has software patents in
+                his name and has successfully built and sold 2 software products.Code Judge – where he is using all his automatic code analysis skills to
+                build the world’s first automated code review platform for making recruiting easier."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -50,15 +46,15 @@ teamLeaders:
 # design team
 designTeam:
   enable : true
-  title : "Design Team"
-  description : "Small Apps makes it easy to stay on top of your Life Style. No late tasks. No gimmicks."
+  title : "Advisory Team"
+  description : "Perfect Mix of Technology and Bussiness."
   teamMember :
     # team member
     - image : "images/team/design-team-01.webp"
       imageAlt : "images/team/design-team-01.jpg"
-      name : "Jonathon Andrew"
-      designation : "Head Of Marketing"
-      content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat."
+      name : "Chinmaya Saxena"
+      designation : "Ex Facebook, Microsoft"
+      content : "Having Lead Facebook India developers Chinmaya has a great experience in working with developers helping us build the developers platform for test."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -75,9 +71,9 @@ designTeam:
     # team member
     - image : "images/team/design-team-02.webp"
       imageAlt : "images/team/design-team-02.jpg"
-      name : "Jonathon Andrew"
-      designation : "Head Of Marketing"
-      content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat."
+      name : "Sumit Jain"
+      designation : "CTO, Birdeye"
+      content : "Having faced the problem going through the candidates for hiring and post hiring problem of fitment. Sumit helps us get the product perespective from the Recruiter Team."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -94,9 +90,9 @@ designTeam:
     # team member
     - image : "images/team/design-team-03.webp"
       imageAlt : "images/team/design-team-03.jpg"
-      name : "Jonathon Andrew"
-      designation : "Head Of Marketing"
-      content : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat."
+      name : "Ashish Gupta"
+      designation : "Ex Vice Precident, HP & Angel Investor"
+      content : "With over 15 years for experience in bussiness and finance. Pushing Codejudge to operational execellence."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -112,7 +108,7 @@ designTeam:
           
 # marketing team
 marketingTeam:
-  enable : true
+  enable : false
   title : "Marketing Team"
   description : "Small Apps makes it easy to stay on top of your Life Style. No late tasks. No gimmicks."
   teamMember :

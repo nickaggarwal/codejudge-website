@@ -104,4 +104,4 @@ investors :
 
 # call to action
 cta :
-  enable : true
+  enable : false

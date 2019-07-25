@@ -4,25 +4,25 @@ banner:
   description : "Codejudge allows you to solve Microprojects that helps to evaluate skills of a developer with Real World Scenarios."
   bgImage : "images/home-banner.webp"
   bgImageAlt : "images/home-banner.png"
-  image : "images/mobile.webp"
-  imageAlt : "images/mobile.png"
+  image : "images/back-homepage.png"
+  imageAlt : "images/back-homepage.png"
   button:
     btnText : "Start Now"
     URL : "http://work.codejudge.io"
     
 # banner-feature
 bannerFeature:
-  - icon: "tf-ion-paintbucket"
+  - icon: "tf-puzzle"
     title: "real world scenarios"
-    description: "Most of the questions are modelled after real live developer tasks."
+    description: "Most of the questions are modelled after real life developer tasks."
     
-  - icon: "tf-ion-load-b"
+  - icon: "tf-bargraph"
     title: "code metrics"
-    description: "We provide code quality metrics of a developer which helps to identify strengths and weakness."
+    description: "We provide code quality metrics which helps to identify strengths and weakness of a candidate."
     
-  - icon: "tf-ion-ios-lightbulb"
+  - icon: "tf-adjustments"
     title: "automated workflow"
-    description: "You can access the Skill of a candidate with Microproject based test without involving your developer team."
+    description: "You can access the Skills of a candidate with Microproject based test without involving your developer team."
 
 # feature one
 featureOne:

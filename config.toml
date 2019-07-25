@@ -83,7 +83,7 @@ paginate = 6
 
 [params]
 logo = "images/codejudge.png"
-logoAlt = "images/logo-alt.png"
+logoAlt = "images/codejudge.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
