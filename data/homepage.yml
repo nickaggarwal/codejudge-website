@@ -30,7 +30,7 @@ featureOne:
   imageAlt : "images/recruiter-homepage.png"
   image : "images/recruiter-homepage.png"
   title : "Make developer hiring efficient with Codejudge"
-  content : "Recruiter’s can easily send a Coding Assignment based on their Industry, Technology and Delivery Area from a list of micro projects and get a report comprising of the performance on test cases (Functional Requirements) and Non Functional Metrics like Design Patterns used, Code Smells, Bugs and Code Quality. This provides them a real insight into his developer proficiency."
+  content : "Recruiter’s can easily send a Microproject based on their Industry, Technology and Delivery Area from a list of micro projects and get a report comprising of the performance on test cases (Functional Requirements) and Non Functional Metrics like Design Patterns used, Code Smells, Bugs and Code Quality. This provides them a real insight into his developer proficiency."
   comment : "Using Codejudge we could pre filter a lot of candidates and found better candidates for the job role."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
   clientName : "Sumit Jain, Birdeye"
