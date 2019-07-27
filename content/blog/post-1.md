@@ -1,5 +1,5 @@
 ---
-title: "Innovation distinguishes between a leader and a follower."
+title: "Skill based Resumes"
 date: 2019-02-28T12:35:54+06:00
 description: "this is meta description"
 pageDescription : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
@@ -22,15 +22,15 @@ authorSocial :
     URL : "#"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Above is how a resume looks like since 90th century, Where people write about their college, about the roles in their past company and the projects they worked on. What legacy resume miss is how good you were at your job, what did you do in the project and well no one cares about you college grade. Well resumes are the first point of contact between recruiter and candidate. Resumes are text curated by Applicants which have no credibility and authenticity. 
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+What matter to a company and recruiter is you skill. How good are you at the job ? What did you build in the project you described ? 
 
-> Design is not just what it looks like and feels like. Design is how it works.
+> It doesn't matter who you are or where you came from, Only thing that matters is your Skill 
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+At codejudge we plan to create a differnt kind of resume, one that only cares about your Skill, A Resume that you build buy solving real world problems, by making projects that solves real problems from various industries. Where you get data points that are crutial for Software Developemnt, How 
 
 
 {{< image src="../../images/blog/post-body-image.jpg" srcAlt="../../images/blog/post-body-image.jpg" >}}
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Switch the the future of resume which has projects build and tested on real life sceanrios, which has details for quality of project delivered and metrics around the code quality. Get real life resume for the developers you hire at <b><a href=' http://work.codejudge.io' > Codejduge </a> </b>

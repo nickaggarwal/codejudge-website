@@ -1,13 +1,13 @@
 ---
-title: "Innovation distinguishes between a leader and a follower."
+title: "Hire Developer (not Coders)"
 date: 2019-02-28T12:35:54+06:00
-description: "this is meta description"
-pageDescription : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
+description: "Hire Developer and not Coders"
+pageDescription : "Hire Developers who are good at build product and not solving mathamatical problems."
 type : "featured-post"
 image : "images/feature/featured-article.jpg"
-author : "Thomas Johnson"
+author : "Nilesh Agarwal"
 authorImage : "images/testimonial/feature-testimonial-thumb.jpg"
-authorDescription : "Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Proin eget tortor risus. Mauris blandit aliquet elit."
+authorDescription : "Nilesh Agarwal is tech enthusiast, Ex Amazon and Microsoft. Always reason by First Principles, Fundamentals are where the biggest changes await."
 authorSocial : 
   - icon : "tf-ion-social-facebook"
     URL : "#"

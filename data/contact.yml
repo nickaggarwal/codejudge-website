@@ -1,8 +1,11 @@
 address:
   - icon : "tf-phone2"
     addressList:
-      - listItem : "(+91) 987 102 8111 (INDIA)"
       - listItem : "(+1) 5717 688 627 (USA)"
+
+  - icon : "tf-email2"
+    addressList:
+      - listItem : "nilesh@codejudge.io"
       
   - icon : "tf-map2"
     addressList:

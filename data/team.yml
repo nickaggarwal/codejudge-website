@@ -27,9 +27,9 @@ teamLeaders:
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
       content : "Nilesh is a seasoned Technology lead - he has extensively used Java, Python , Angular JS, Graph Databases, Elastic Map
-                Reduce, Docker,Static Code Analysis tools to create products for Location Tracking products. He has software patents in
-                his name and has successfully built and sold 2 software products.Code Judge – where he is using all his automatic code analysis skills to
-                build the world’s first automated code review platform for making recruiting easier."
+                Reduce, Docker,Static Code Analysis tools to create products for Location Tracking. He has software patents in
+                his name and has successfully built and sold 2 software products. Codejudge – where he is using all his automatic code analysis skills to
+                build the world’s first automated code evaluation platform for making recruiting easier."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -54,7 +54,7 @@ designTeam:
       imageAlt : "images/team/design-team-01.jpg"
       name : "Chinmaya Saxena"
       designation : "Ex Facebook, Microsoft"
-      content : "Having Lead Facebook India developers Chinmaya has a great experience in working with developers helping us build the developers platform for test."
+      content : "Having lead Facebook- India Developer Circle, Chinmaya has a great experience in working with developers and is helping us build the developers platform."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -73,7 +73,7 @@ designTeam:
       imageAlt : "images/team/design-team-02.jpg"
       name : "Sumit Jain"
       designation : "CTO, Birdeye"
-      content : "Having faced the problem going through the candidates for hiring and post hiring problem of fitment. Sumit helps us get the product perespective from the Recruiter Team."
+      content : "Having faced the problem going through candidates for hiring, further post-hiring problem of fitment. Sumit is helping us build the platform that solves for fitment at scale."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
