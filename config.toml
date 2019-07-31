@@ -1,4 +1,4 @@
-baseURL = "https://codejudge.io/"
+baseURL = "http://codejudge.io/"
 languageCode = "en-us"
 title = "Codejudge | Developer Skill Assessment"
 theme = "small-apps"
