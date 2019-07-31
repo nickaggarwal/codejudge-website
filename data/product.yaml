@@ -28,14 +28,14 @@ about:
           We wanted to use first principles approach to solving Hiring problem. So we asked why can't we give a task that developer is suppoded to do as a part of everyday routine. 
           From there we created a platfrom that could solve for creating boilerplate, creating build automation creating a pipeline for deployment and then test for performance and quality. "
   imageSlider:
-    - image : "images/developer.png"
-      imageAlt : "images/developer.png"
+    - image : "images/developer.jpg"
+      imageAlt : "images/developer.jpg"
 
-    - image : "images/recruiter.png"
-      imageAlt : "images/recruiter.png"
+    - image : "images/recruiter.jpg"
+      imageAlt : "images/recruiter.jpg"
       
-    - image : "images/question.png"
-      imageAlt : "images/question.png"
+    - image : "images/question.jpg"
+      imageAlt : "images/question.jpg"
 
 # quote slider
 quoteSlider:
@@ -61,7 +61,7 @@ clients:
 investors :
   enable : true
   title : "Our Angel Investors"
-  description : "Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat."
+  description : "We have investments from people who are leaders in the industry."
   investor :
     - image : "images/investor/rajan.png"
       imageAlt : "images/investor/rajan.png"
