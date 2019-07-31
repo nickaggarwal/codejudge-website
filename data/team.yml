@@ -23,7 +23,7 @@ teamLeaders:
           URL : "#"
 
     # ceo
-    - image : "images/team/nilesh.png"
+    - image : "images/nilesh.png"
       imageAlt : "images/nilesh.png"
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
