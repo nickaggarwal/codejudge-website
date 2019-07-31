@@ -1,23 +1,7 @@
-about:
-  enable: true
-  title : "Real world Micro projects"
-  content : "We really believe that building is learning. So we created a platfrom that allows developers to build for real world problems and get feedback. 
-          We wanted to use first principles approach to solving Hiring problem. So we asked why can't we give a task that developer is suppoded to do as a part of everyday routine. 
-          From there we created a platfrom that could solve for creating boilerplate, creating build automation creating a pipeline for deployment and then test for performance and quality. "
-  imageSlider:
-    - image : "images/about/story-slider-01.webp"
-      imageAlt : "images/about/story-slider-01.jpg"
-
-    - image : "images/about/story-slider-01.webp"
-      imageAlt : "images/about/story-slider-01.jpg"
-      
-    - image : "images/about/story-slider-01.webp"
-      imageAlt : "images/about/story-slider-01.jpg"
-
 # behind story
 behindStory:
   enable : true
-  title : "Why we created Codejudge"
+  title : "Why we created Codejudge ?"
   content : "Codejudge plans to bridge the GAP between what is asked in hiring interviews and what skills are required by developers in their everyday tasks. With Codejudge we wanted to platform were we could abstract out the infrastructure and deployment nuisance which inhibts Recruiters to test for everyday development skill. Furthermore same platform can be used by developers to solve read world challeges rather than algorithm and data structure challenges."
 
 # create story
@@ -35,6 +19,23 @@ createStory:
     content : "Codejudge provides Recruiters a tool to access developers skill with a Zero effort workflow. Recruiters can easily Signup and then choose from a library of technical questions according to thies industry and vertical. Once the test is sent and completed by developer. Recruiters get a detailed report of their competiencies and stack ranked list of developers according to their proficiency"
     btnText : "Hire"
     URL : "http://work.codejudge.io"
+
+#about
+about:
+  enable: true
+  title : "Real world Microprojects"
+  content : "We really believe that building is learning. So we created a platfrom that allows developers to build for real world problems and get feedback. 
+          We wanted to use first principles approach to solving Hiring problem. So we asked why can't we give a task that developer is suppoded to do as a part of everyday routine. 
+          From there we created a platfrom that could solve for creating boilerplate, creating build automation creating a pipeline for deployment and then test for performance and quality. "
+  imageSlider:
+    - image : "images/developer.png"
+      imageAlt : "images/developer.png"
+
+    - image : "images/recruiter.png"
+      imageAlt : "images/recruiter.png"
+      
+    - image : "images/question.png"
+      imageAlt : "images/question.png"
 
 # quote slider
 quoteSlider:
