@@ -59,3 +59,9 @@
   ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script>
+  $(window).on('load', function (){
+  window.dispatchEvent(new Event('resize'));
+  });
+</script>
