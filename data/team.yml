@@ -7,7 +7,8 @@ teamLeaders:
       name : "Akhil Mittal"
       designation : "Founder & CTO"
       content : "Akhil has led tech teams in both start ups and large scale enterprises. His proficiency in backend technologies (Java, PHP), 
-      frontend technologies (ExtJs, AngularJs), databases (SQL/NoSQL), search engines (Elasticsearch) and cache (Redis) will accelerate our journey ."
+      frontend technologies (ExtJs, AngularJs), databases (SQL/NoSQL), search engines (Elasticsearch) and cache (Redis) will accelerate our journey. 
+      This obsession over architecture, code quality and design attracted him towards Code-judge where not only a code is scored (based on various code quality and design metrics) but also the tedious task of reviewing it manually (which is being done till date) is automated."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -22,8 +23,8 @@ teamLeaders:
           URL : "#"
 
     # ceo
-    - image : "images/team/featured-person-02.webp"
-      imageAlt : "images/team/featured-person-02.jpg"
+    - image : "images/team/nilesh.png"
+      imageAlt : "images/nilesh.png"
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
       content : "Nilesh is a seasoned Technology lead - he has extensively used Java, Python , Angular JS, Graph Databases, Elastic Map
@@ -50,8 +51,8 @@ designTeam:
   description : "Perfect Mix of Technology and Bussiness."
   teamMember :
     # team member
-    - image : "images/team/design-team-01.webp"
-      imageAlt : "images/team/design-team-01.jpg"
+    - image : "images/team/chinmaya.png"
+      imageAlt : "images/team/chinmaya.png"
       name : "Chinmaya Saxena"
       designation : "Ex Facebook, Microsoft"
       content : "Having lead Facebook- India Developer Circle, Chinmaya has a great experience in working with developers and is helping us build the developers platform."
@@ -69,8 +70,8 @@ designTeam:
           URL : "#"
           
     # team member
-    - image : "images/team/design-team-02.webp"
-      imageAlt : "images/team/design-team-02.jpg"
+    - image : "images/team/sumit.png"
+      imageAlt : "images/team/sumit.png"
       name : "Sumit Jain"
       designation : "CTO, Birdeye"
       content : "Having faced the problem going through candidates for hiring, further post-hiring problem of fitment. Sumit is helping us build the platform that solves for fitment at scale."
@@ -88,8 +89,8 @@ designTeam:
           URL : "#"
           
     # team member
-    - image : "images/team/design-team-03.webp"
-      imageAlt : "images/team/design-team-03.jpg"
+    - image : "images/team/ashish.png"
+      imageAlt : "images/team/ashish.png"
       name : "Ashish Gupta"
       designation : "Ex Vice Precident, HP & Angel Investor"
       content : "With over 15 years for experience in bussiness and finance. Pushing Codejudge to operational execellence."
