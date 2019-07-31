@@ -31,8 +31,8 @@ about:
     - image : "images/developer.webp"
       imageAlt : "images/developer.jpg"
 
-    # - image : "images/recruiter.webp"
-    #   imageAlt : "images/recruiter.jpg"
+    - image : "images/recruiter.webp"
+      imageAlt : "images/recruiter.jpg"
       
     - image : "images/question.webp"
       imageAlt : "images/question.jpg"
