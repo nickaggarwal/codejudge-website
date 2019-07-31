@@ -59,7 +59,7 @@ clients:
 
 # investors
 investors :
-  enable : true
+  enable : false
   title : "Our Angel Investors"
   description : "We have investments from people who are leaders in the industry."
   investor :
