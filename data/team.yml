@@ -2,8 +2,8 @@ teamLeaders:
   enable : true
   teamLeader:
     # ceo
-    - image : "images/nilesh.png"
-      imageAlt : "images/nilesh.png"
+    - image : "images/akhil.jpg"
+      imageAlt : "images/akhil.jpg"
       name : "Akhil Mittal"
       designation : "Founder & CTO"
       content : "Akhil has led tech teams in both start ups and large scale enterprises. His proficiency in backend technologies (Java, PHP), 
