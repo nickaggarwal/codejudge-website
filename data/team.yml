@@ -6,9 +6,9 @@ teamLeaders:
       imageAlt : "images/akhil.jpg"
       name : "Akhil Mittal"
       designation : "Founder & CTO"
-      content : "Akhil has led tech teams in both start ups and large scale enterprises. His proficiency in backend technologies (Java, PHP), 
-      frontend technologies (ExtJs, AngularJs), databases (SQL/NoSQL), search engines (Elasticsearch) and cache (Redis) will accelerate our journey. 
-      This obsession over architecture, code quality and design attracted him towards Code-judge where not only a code is scored (based on various code quality and design metrics) but also the tedious task of reviewing it manually (which is being done till date) is automated."
+      content : "Akhil has led technical teams in startups and large scale enterprise. His proficiency in backend technologies, 
+      frontend technologies, databases, search engines  and cache has accelerated our journey. 
+      His obsession over architecture, code quality and design attracted him towards Codejudge where code is evaluated as well as tedious task of reviewing it manually is automated."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -28,8 +28,8 @@ teamLeaders:
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
       content : "Nilesh is a seasoned Technology lead - he has extensively used Java, Python , Angular JS, Graph Databases, Elastic Map
-                Reduce, Docker,Static Code Analysis tools to create products for Location Tracking. He has software patents in
-                his name and has successfully built and sold 2 software products. Codejudge – where he is using all his automatic code analysis skills to
+                Reduce, Docker,Static Code Analysis tools to create enterprise software. He has software patents on
+                his name and has successfully built and sold software products. Codejudge – where he is using all his automatic code analysis skills to
                 build the world’s first automated code evaluation platform for making recruiting easier."
       socialIcon :
         - icon : "tf-ion-social-facebook"
@@ -55,7 +55,7 @@ designTeam:
       imageAlt : "images/team/chinmaya.png"
       name : "Chinmaya Saxena"
       designation : "Ex Facebook, Microsoft"
-      content : "Having lead Facebook- India Developer Circle, Chinmaya has a great experience in working with developers and is helping us build the developers platform."
+      content : "Having led Facebook- India Developer Circle, Chinmaya has a great experience in working with developers and is helping us build the developers platform."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
@@ -74,7 +74,7 @@ designTeam:
       imageAlt : "images/team/sumit.png"
       name : "Sumit Jain"
       designation : "CTO, Birdeye"
-      content : "Having faced the problem going through candidates for hiring, further post-hiring problem of fitment. Sumit is helping us build the platform that solves for fitment at scale."
+      content : "Having faced the problem going through candidates for hiring, further post-hiring problem of fitment, Sumit is helping us building the platform that solves for fitment at scale."
       socialIcon :
         - icon : "tf-ion-social-facebook"
           URL : "#"
