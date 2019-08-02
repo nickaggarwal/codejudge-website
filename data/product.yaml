@@ -9,7 +9,7 @@ createStory:
   - image : "images/blog/post-01.webp"
     imageAlt : "images/blog/post-01.jpg"
     title : "Codejudge for Developers"
-    content : "Codejudge plans to bridge the GAP between what is asked in hiring interviews and what skills are required by developers in their everyday tasks. With Codejudge we wanted to platform were we could abstract out the infrastructure and deployment nuisance which inhibits Recruiters to test for everyday development skill. Furthermore, same platform can be used by developers to solve read world challenges rather than algorithm and data structure challenges.""
+    content : "Codejudge plans to bridge the GAP between what is asked in hiring interviews and what skills are required by developers in their everyday tasks. With Codejudge we wanted to platform were we could abstract out the infrastructure and deployment nuisance which inhibits Recruiters to test for everyday development skill. Furthermore, same platform can be used by developers to solve read world challenges rather than algorithm and data structure challenges."
     btnText : "Practice"
     URL : "http://console.codejudge.io"
     
