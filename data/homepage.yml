@@ -49,7 +49,7 @@ featureTwo:
 # service
 service:
   enable : true
-  title : "A Tool to make your hiring process efficient"
+  title : "A Tool to make your hiring process efficient."
   description : "Codejudge makes it easy to evaluate skills of a developer."
   image : "images/pipeline-homepage.png"
   imageAlt : "images/pipeline-homepage.png"
