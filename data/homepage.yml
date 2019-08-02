@@ -40,7 +40,7 @@ featureTwo:
   enable : true
   image : "images/dev-homepage.png"
   imageAlt : "images/dev-homepage.png"
-  title : "Practive development skill with Codejudge"
+  title : "Practice development skill with Codejudge"
   content : "Codejudge provides a platform for practicing real world problems. As you build these micro projects you learn aspects of software developemnt and get real time feedback. This skills helps you get ahead in you carrier. You can choose from Backend, Fronend or Mobile Projects."
   comment : "Using Codejudge I could help acclerate my coding carrier by practicing real world scenarios."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
@@ -49,22 +49,22 @@ featureTwo:
 # service
 service:
   enable : true
-  title : "A Tool to make you hiring pipeline efficient"
-  description : "Codejudge makes it easy to acceess skills for a developer. Zero Effort Workflow."
+  title : "A Tool to make your hiring process efficient"
+  description : "Codejudge makes it easy to evaluate skills of a developer."
   image : "images/pipeline-homepage.png"
   imageAlt : "images/pipeline-homepage.png"
   serviceItem :
     - icon : "tf-ribbon"
       title : "Save Cost"
-      content : "Saves huge costs in hiring, on average 30 hours for developer time taken to evaluate a candidate."
+      content : "On an average, it takes about 30 hours for Interviewer to evaluate a candidate, using our product you can save this time"
       
     - icon : "tf-puzzle"
       title : "Problem Solving"
-      content : "Micro Projects help you capture real world problem solving capabilities for a developer."
+      content : "Our Micro Projects designned in way that help you capture real world problem solving capabilities of a developer."
       
     - icon : "tf-bargraph"
       title : "Hiribility Metrics"
-      content : "Codejudge allows you to capture Metrics that are not possible in short span of Interview."
+      content : "Our product enables you to capture metrics that are impossible in short span of Interview."
       
     - icon : "tf-adjustments"
       title : "Highly Scalable"
@@ -110,7 +110,7 @@ download:
       icon : "tf-ion-ios-cloud"
       URL : "#"
       
-    - btnText : "Fronend"
+    - btnText : "Frontend"
       icon : "tf-ion-android-chat"
       URL : "#"
       
