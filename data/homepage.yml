@@ -73,7 +73,7 @@ service:
 
 # promo video
 promoVideo:
-  enable : true
+  enable : false
   bgImage : "images/background/promo-video-back.webp"
   bgImageAlt : "images/background/promo-video-back.jpg"
   title : "Watch Our Promo Video"
