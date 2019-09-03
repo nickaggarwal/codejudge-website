@@ -21,15 +21,31 @@ teamLeaders:
           
         - icon : "tf-ion-social-dribbble"
           URL : "#"
+    - image : "images/krutika.jpg"
+      imageAlt : "images/krutika.jpg"
+      name : "Krutika Rastogi"
+      designation : "Founder & COO"
+      content : "Krutika previously co-founded IndiaSupply - a b2b ecommerce platform right out of college and ran it for 3 years. IndiaSupply is a B2B e-commerce platform for the healthcare industry. At Codejudge she heads stratergy for growth and customer acquisition."
+      socialIcon :
+        - icon : "tf-ion-social-facebook"
+          URL : "#"
+          
+        - icon : "tf-ion-social-twitter"
+          URL : "#"
+          
+        - icon : "tf-ion-social-instagram"
+          URL : "#"
+          
+        - icon : "tf-ion-social-dribbble"
+          URL : "#"
 
     # ceo
-    - image : "images/nilesh.png"
-      imageAlt : "images/nilesh.png"
+    - image : "images/nilesh.jpg"
+      imageAlt : "images/nilesh.jpg"
       name : "Nilesh Agarwal"
       designation : "Founder & CEO"
       content : "Nilesh is a seasoned Technology lead - he has extensively used Java, Python , Angular JS, Graph Databases, Elastic Map
-                Reduce, Docker,Static Code Analysis tools to create enterprise software. He has software patents on
-                his name and has successfully built and sold software products. Codejudge – where he is using all his automatic code analysis skills to
+                Reduce, Docker,Static Code Analysis tools to create enterprise software. He has software patents on his name and has successfully built and sold software products. Codejudge – where he is using all his automatic code analysis skills to
                 build the world’s first automated code evaluation platform for making recruiting easier."
       socialIcon :
         - icon : "tf-ion-social-facebook"

@@ -8,7 +8,7 @@
     <div class="container">
       <div class="row">
         {{ range .Site.Data.team.teamLeaders.teamLeader }}
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <div class="founder">
             <img class="img-fluid" src="{{ .image | absURL }}" onerror="this.src='{{ .imageAlt | absURL }}'" alt="featured-member">
             <h2>{{ .name }}</h2>
