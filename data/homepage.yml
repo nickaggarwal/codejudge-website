@@ -8,7 +8,7 @@ banner:
   imageAlt : "images/back-homepage.png"
   button:
     btnText : "Start Now"
-    URL : "http://work.codejudge.io"
+    URL : "https://work.codejudge.io"
     
 # banner-feature
 bannerFeature:
