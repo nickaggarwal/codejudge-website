@@ -74,10 +74,10 @@ paginate = 6
   URL = "/contact"
   weight = 4
   
-  [[menu.footer]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 3
+  # [[menu.footer]]
+  # name = "Blog"
+  # URL = "/blog"
+  # weight = 3
 
 
 
