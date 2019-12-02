@@ -1,14 +1,14 @@
 # banner
 banner:
-  title : "Hire Developers with RealWorld Microproject "
-  description : "Codejudge allows you to solve Microprojects that helps to evaluate skills of a developer with Real World Scenarios."
+  title : "Find the right talent with RealWorld Microproject"
+  description : "Codejudge allows developers to discover tech job they derserve with niche Technology companies."
   bgImage : "images/home-banner.webp"
   bgImageAlt : "images/home-banner.png"
   image : "images/back-homepage.png"
   imageAlt : "images/back-homepage.png"
   button:
-    btnText : "Start Now"
-    URL : "https://work.codejudge.io"
+    btnText : "Hire Now"
+    URL : "http://talent.codejudge.io/company/"
     
 # banner-feature
 bannerFeature:
@@ -21,8 +21,8 @@ bannerFeature:
     description: "We provide code quality metrics which helps to identify strengths and weakness of a candidate."
     
   - icon: "tf-adjustments"
-    title: "automated workflow"
-    description: "You can access the Skills of a candidate with Microproject based test without involving your developer team."
+    title: "talent pool"
+    description: "You can hire the right developer with Microproject based test without involving your developer team."
 
 # feature one
 featureOne:
@@ -30,8 +30,8 @@ featureOne:
   imageAlt : "images/recruiter-homepage.png"
   image : "images/recruiter-homepage.png"
   title : "Make developer hiring efficient with Codejudge"
-  content : "Recruiter’s can easily send a Microproject based on their Industry, Technology and Delivery Area from a list of micro projects and get a report comprising of the performance on test cases (Functional Requirements) and Non Functional Metrics like Design Patterns used, Code Smells, Bugs and Code Quality. This provides them a real insight into his developer proficiency."
-  comment : "Using Codejudge we could pre filter a lot of candidates and found better candidates for the job role."
+  content : "Recruiter’s can easily use the curated talent pool or send a Microproject based on their Industry, Technology and Delivery Area from a list of micro projects and get a report comprising of the performance on test cases (Functional Requirements) and Non Functional Metrics like Design Patterns used, Code Smells, Bugs and Code Quality. Codejudge provides a real insight into his developer proficiency."
+  comment : "Using Codejudge we found talent that required very minimal on-site interviews, also for inbound applicants we could pre filter a lot of candidates."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
   clientName : "Sumit Jain, Birdeye"
 
@@ -40,9 +40,9 @@ featureTwo:
   enable : true
   image : "images/dev-homepage.png"
   imageAlt : "images/dev-homepage.png"
-  title : "Practice development skill with Codejudge"
+  title : "Get Discovered by showing off you development skill with Codejudge"
   content : "Codejudge provides a platform for practicing real world problems. As you build these micro projects you learn aspects of software developemnt and get real time feedback. This skills helps you get ahead in you carrier. You can choose from Backend, Fronend or Mobile Projects."
-  comment : "Using Codejudge I could help acclerate my coding carrier by practicing real world scenarios."
+  comment : "Using Codejudge I could find nice Startups to work for and it also helped advancing my coding carrier by practicing real world scenarios."
   clientImage : "images/testimonial/feature-testimonial-thumb.jpg"
   clientName : "Avikant Gupta, Adobe"
 
