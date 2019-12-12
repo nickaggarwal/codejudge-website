@@ -7,8 +7,8 @@ banner:
   image : "images/back-homepage.png"
   imageAlt : "images/back-homepage.png"
   button:
-    btnText : "Hire Now"
-    URL : "http://talent.codejudge.io/company/"
+    btnText : "Start building your tech team"
+    URL : "https://work.codejudge.io/"
     
 # banner-feature
 bannerFeature:
